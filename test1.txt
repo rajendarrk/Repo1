@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5096-4A34
+
+ Directory of C:\Users\Rajendar\Desktop\MyProject
+
+12-Apr-17  12:05 PM    <DIR>          .
+12-Apr-17  12:05 PM    <DIR>          ..
+12-Apr-17  12:05 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  26,716,123,136 bytes free
