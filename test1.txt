@@ -8,8 +8,3 @@
 12-Apr-17  12:05 PM                 0 test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  26,716,123,136 bytes free
-
-			  			 
-
-
-
